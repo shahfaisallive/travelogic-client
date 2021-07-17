@@ -1,0 +1,108 @@
+.card-border{
+  border: 0;
+}
+
+#img-div{
+  margin-left: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+#img-div #qc-img{
+  max-width: 90%;
+}
+
+#name{
+  font-weight: 500;
+}
+
+#info{
+  margin-bottom: 0.5rem;
+}
+
+.posted-text{
+  color: green;
+  font-size: 13px;
+  font-weight: 300!important;
+}
+
+.date{
+  color: black;
+  font-size: 13px;
+}
+
+.view{
+  color: black;
+  font-size: 13px;
+}
+
+.card-body{
+  padding: 0.3rem!important;
+}
+
+.detail-card-body{
+  padding: 0.5rem!important;
+}
+#detail-img-div{
+  margin-top: 0.5rem;
+  margin-right: 0.25rem;
+}
+#detail-img-div #qc-img{
+  max-width: 95%;
+}
+
+.single-question-wrap:hover{
+  background-color: rgb(224, 210, 210);
+  border: 0px 
+}
+
+#detail-question{
+  font-size: 15px;
+  font-weight: 500;
+}
+
+#detail-description{
+  font-size: 15px;
+  font-weight: 300;
+}
+
+#triple-dot-menu{
+  background-color: transparent;
+}
+
+@media (max-width: 575px) { 
+
+  #img-div{
+    margin-top: 0.5rem;
+  }
+  #img-div #qc-img{
+    max-width: 25%;
+  }  
+  .card-body{
+    padding: 0.5rem!important;
+  }
+  #detail-img-div{
+    margin-left: 0.5rem;
+  }
+  #detail-img-div #qc-img{
+    max-width: 25%;
+  }
+  
+}
+
+@media (min-width: 576px) and (max-width: 767px) { 
+  #img-div{
+    margin-top: 1rem;
+  }
+  .detail-img-div{
+    margin-top: 0.5rem;
+  }
+  #img-div #qc-img{
+    max-width: 90%;
+  } 
+  .card-body{
+    padding: 0.5rem!important;
+  }
+}
+
+

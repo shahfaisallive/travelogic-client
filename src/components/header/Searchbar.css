@@ -1,0 +1,31 @@
+#search-btn{
+    width: 90px;
+    height: 35px;
+    margin-left: -2px;
+    background-color: #114B5F;
+    color: white;
+    font-size: 14px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#search-btn:hover{
+    background-color: #0d333f;
+}
+
+#searchbar-wrap{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.searchbar-input{
+    height: 35px;
+    font-size: 16px;
+    padding-bottom: 12px;
+}
+
+.searchbar-card{
+    border: none;
+    background-color:#f7ecec ;
+    margin-top: 15px;
+}
+

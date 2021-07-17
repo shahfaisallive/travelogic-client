@@ -1,0 +1,39 @@
+.payment-details-box{
+    height: auto;
+    width: 300px;
+    background-color: #F2F2F2;
+}
+.confirm-booking-btn{
+    background-color:#114B5F;
+    color: #ffffff;
+}
+.confirm-booking-btn:hover{
+    background-color: #0b3b4b;
+    color: #F2F2F2;
+}
+.easypaisa-btn {
+    height: 70px;
+    width: 130px;
+    border-radius: 5px;
+}
+.cod-btn{
+    height: 70px;
+    width: 130px;
+    border-radius: 5px;
+
+}
+.easypaisa-btn:focus{
+    box-shadow: 5px 5px 5px #0b3b4b;
+}
+
+.cod-btn:focus{
+    box-shadow: 5px 5px 5px #0b3b4b;
+}
+.stripeButton{
+    background-color:#114B5F;
+    color: #ffffff;
+}
+.stripeButton:hover{
+    background-color: #0b3b4b;
+    color: #F2F2F2;
+}

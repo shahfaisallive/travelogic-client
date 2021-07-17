@@ -1,0 +1,66 @@
+#stays-container {
+  border-style: solid;
+  border-color: #114B5F;
+  background-color: white;
+  align-content: center;
+}
+
+#stays-container-heading {
+  background-color: #114B5F;
+  color: white;
+}
+
+#stays-container-content {
+  background-color: white;
+  color: black;
+  height: 300px;
+}
+
+.button {
+  background-color: #114B5F;
+  color: white;
+}
+
+#budget-div {
+  border: 1px;
+  border-color: #114B5F;
+  color: black;
+  background-color: white;
+  align-content: center;
+  
+
+}
+
+#budget-heading {
+  display: block;
+  padding-left: 10%;
+  font-size: 15px;
+}
+
+.route-possibility {
+  
+  background-color: #114B5F;
+  color: white;
+}
+
+.check-route {
+  background-color:#1a936f;
+  color:white;
+  border: solid #114B5F;
+  border-radius: 8px;
+
+}
+
+#generate-div {
+  height: 300px;
+  background-color: white;
+}
+
+#plan-another{
+  background-color: #117a5b;
+  color: white;
+}
+
+#expenseTable {
+  background-color: rgb(240, 232, 232);
+}

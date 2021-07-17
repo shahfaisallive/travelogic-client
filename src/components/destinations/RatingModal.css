@@ -1,0 +1,12 @@
+.rating-destination-modal{
+    background-color: rgb(236, 222, 222);
+}
+.submit-rating-btn{
+    background-color: #114B5F;
+    color: white;
+}
+.submit-rating-btn:hover{
+    background-color: #0a2f3b;
+    color: white;
+}
+

@@ -1,0 +1,51 @@
+.sign-up-container{
+margin-top: 100px;
+}
+
+.login-btn{
+  font-size: 14px;
+  background-color: #114B5F;
+  color: white;
+}
+
+.sso-btn{
+  background-color: white;
+}
+
+.btn-facebook {
+  color:#166fe5 ;
+  border: none;
+}
+
+
+.btn-gmail {
+ color: #d93025;
+  border: none;
+}
+
+.form-control::placeholder {
+  font-size: 12px;
+}
+.form-control:focus {
+  box-shadow: none;
+}
+.form-control:active {
+  box-shadow: none;
+} 
+
+#sign-up-intro{
+  border-radius: 10px;
+  box-shadow: 5px 5px 20px #114B5F;
+  max-width: 400px;
+  background-color: #1a936f;
+}
+#logo{
+  max-width: 230px;
+}
+.sign-in-btn{
+  background-color: #f6f9fa;
+}
+.sign-in-btn:hover{
+  background-color: #114B5F ;
+  color: #f6f9fa;
+}

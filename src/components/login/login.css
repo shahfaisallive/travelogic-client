@@ -1,0 +1,12 @@
+.outer-div-login{
+    border-radius: 10px;
+    max-width: 400px;
+  }
+  
+  #login-link{  
+    background-color:#114b5f
+  }
+  
+  .login-wrap {
+    margin-top: 120px;
+  }

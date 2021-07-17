@@ -1,0 +1,27 @@
+.card-border{
+  border: 0;
+}
+
+.card-img{
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px #114B5F;
+}
+
+#img-div{
+  margin-left: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+#name{
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.outer-div{
+  max-width: 900px;
+}
+#icon-size{
+  font-size: 12px;
+}
+

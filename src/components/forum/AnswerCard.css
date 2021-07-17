@@ -1,0 +1,54 @@
+.answerCard{
+  border-bottom: 0.5px solid rgb(211, 203, 203);
+}
+
+#img-div{
+  margin-left: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+#img-div #ac-img{
+  max-width: 70%;
+}
+.answerDetailsBox{
+  margin-left: -10px;
+}
+#name{
+  font-weight: 500;
+}
+.posted-text{
+  color: green;
+  font-size: 13px;
+  font-weight: 300!important;
+}
+
+@media (max-width: 575px) { 
+
+  #img-div{
+    margin-top: 0.25rem;
+  }
+  #img-div #ac-img{
+    max-width: 25%;
+  }  
+  .card-body{
+    padding: 0.5rem!important;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767px) { 
+  
+  #img-div{
+    margin-top: 1rem;
+  }
+  .detail-img-div{
+    margin-top: 0.5rem;
+  }
+  #img-div #ac-img{
+    max-width: 90%;
+  } 
+  .card-body{
+    padding: 0.5rem!important;
+  }
+}
+

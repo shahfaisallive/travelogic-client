@@ -1,0 +1,36 @@
+#outer-div{
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+#detail{
+  max-width: 650px;
+}
+#book-btn{
+  font-size: 14px;
+  background-color: #114B5F;
+  color: white;
+  margin-top: 10px;
+  width: 130px;
+}
+#book-btn:hover{
+  background-color:#0b3847 ;
+}
+
+.price-tag{
+ font-size: 18px;
+ color: #0b3847;
+}
+
+.back-to-trips-btn{
+  font-size: 14px;
+  background-color: #e0eaee;
+  margin-top: 10px;
+}
+.back-to-trips-btn:hover{
+  background-color:#badde9 ;
+}
+
+.review-section{
+  background-color:#e9dcdc;
+}

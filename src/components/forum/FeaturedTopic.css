@@ -1,0 +1,18 @@
+#outer-div{
+  border-radius: 10px;
+  
+}
+
+@media (max-width: 375px) { 
+  .col-md-4{
+   width: auto;
+  }
+  
+}
+@media (min-width: 375px) and (max-width: 767px) { 
+  .col-md-4{
+    width: auto;
+   }
+   
+}
+

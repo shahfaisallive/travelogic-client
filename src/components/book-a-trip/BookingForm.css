@@ -1,0 +1,38 @@
+.price{
+  color: red;
+}
+.total-font{
+font-size: 18px;
+}
+#next-btn{
+  font-size: 14px;
+  background-color: #114B5F;
+  color: white;
+  margin-top: 10px;
+  width: 80px;
+}
+#next-btn:hover{
+  background-color:#0d3a49 ;
+}
+
+#cancel-btn{
+  font-size: 14px;
+  background-color: rgb(214, 63, 63);
+  color: white;
+  margin-top: 10px;
+  width: 80px;
+}
+#cancel-btn:hover{
+  background-color:#9e4623 ;
+}
+
+#outer-div{
+  overflow: hidden;
+}
+#form-div{
+  max-width: 500px; 
+}
+
+#itinerary-div{
+  max-width: 500px;
+}

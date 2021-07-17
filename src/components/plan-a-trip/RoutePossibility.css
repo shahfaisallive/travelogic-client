@@ -1,0 +1,46 @@
+#budget-div {
+  border: 1px;
+  border-color: #114B5F;
+  color: black;
+  background-color: white;
+  align-content: center;
+
+}
+.routePossibilityWrap{
+  width: 110%
+}
+
+#output-text-yes{
+  padding-top: 8%;
+  font-size: 18px;
+  color: green;
+  font-weight: bold;
+}
+#output-text-no{
+  padding-top: 8%;
+  font-size: 18px;
+  color: red;
+  font-weight: bold;
+}
+#output-text{
+  padding-top: 8%;
+  font-size: 18px;
+}
+
+.route-possibility {
+  
+  background-color: #114B5F;
+  color: white;
+  border-radius: 10px;
+}
+
+.check-route {
+  background-color:#1a936f;
+  color:white;
+  border: solid #114B5F;
+  border-radius: 8px;
+}
+
+#noteText{
+  font-size: 12px;
+}

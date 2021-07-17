@@ -1,0 +1,26 @@
+#comment{
+    width: 400px;
+}
+
+.reviewer-name{
+    font-weight: 600;
+}
+
+.single-review-div{
+    background-color: #ffffff;
+    border-radius: 6px;
+    padding-left: 22px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    padding-right: 22px;
+}
+.comment-view-div{
+    margin-top: -14px;
+    background-color: #ffffff;
+    border-radius: 3px;
+    padding: 4px 4px 0px 4px
+}
+.time-tag{
+    font-size: 12px;
+    color: rgb(32, 29, 29);
+}

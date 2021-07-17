@@ -1,0 +1,35 @@
+#ask-btn{
+  font-size: 14px;
+  background-color: #114B5F;
+  color: white;
+  margin-top: 10px;
+  height: 37px;
+}
+#ask-btn:hover{
+  background-color: #0c2e3a;
+}
+
+@media  (max-width: 767px) { 
+  .col-md-2{
+   width: auto;
+  }
+  .ask-btn-outer{
+    margin-left: 7rem;
+  }
+  .pt-5{
+    padding-top: 0 !important;
+  }
+  .mt-5{
+    margin-top: 0 !important;
+  }
+  .row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -10px;
+  } 
+}
+
+

@@ -1,0 +1,33 @@
+.destinations-wrap-div{
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.single-destination-wrap{
+  padding: 20px 20px 20px 20px;
+  color: #114B5F;
+}
+.destination-display-img{
+  border-radius: 10px;
+  box-shadow: 10px 10px 15px #114B5F;
+}
+#destination-intro{
+  word-wrap: break-word;
+}
+.rate-destination-btn{
+  background-color: #1A936F;
+  font-size: 12px;
+  height: 30px;
+  padding: 2px 5px 2px 5px;
+  margin: 2px auto 3px 8px;
+  color: white;
+}
+
+#destination-details-btn{
+  background-color:#114B5F;
+  color: #ffffff;
+}
+#destination-details-btn:hover{
+  background-color:#0a2d38;
+}

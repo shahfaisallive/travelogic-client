@@ -1,0 +1,21 @@
+  th, td {
+    padding: 10px;
+    padding-left: 15px;
+    text-align: left;
+  }
+
+  .booking-details-table{
+      width: 100%;
+  }
+
+  #booking-detail-table-header{
+      background-color: #114B5F;
+      color: #F2F2F2;
+  }
+  #booking-detail-table-footer{
+    background-color: #114B5F;
+    color: #F2F2F2;
+}
+.trip-detail-row{
+    background-color: #F2F2F2;
+}

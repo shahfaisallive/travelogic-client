@@ -1,0 +1,52 @@
+.input-title{
+  font-weight: 500;
+}
+.update-btn{
+  background-color:#114B5F;
+  color:white;
+  
+}
+
+.tab-link{
+  color: black;
+}
+
+.nav-tabs .nav-link.active {
+  color: #114B5F;
+  background-color: #fff;
+  border-color: #dee2e6 #dee2e6 #fff;
+  font-weight: 500;
+}
+
+.reset-btn{
+  background-color: #88d498;
+  color:black;
+}
+
+#file-input{
+  color: transparent;
+}
+@media (max-width: 575px) { 
+  .nav{
+    flex-wrap: nowrap;
+  }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .nav{
+    flex-wrap: nowrap;
+  }
+  }
+
+/* .user-booking-item{
+  border-bottom: 1px solid #114B5F;
+  padding-top: 12px;
+  padding-left: 15px;
+  color: black;
+ }
+ .user-booking-item:hover{
+  border-bottom: 1px solid #114B5F;
+  background-color: lavender;
+  padding-top: 12px;
+  padding-left: 15px;
+  cursor: pointer;
+ } */

@@ -1,0 +1,38 @@
+
+.page-section-intro {
+    padding: 6rem 0;
+    background-color: #0d333f;
+}
+.page-section-intro .btn{
+    background-color: #86dac0;
+    width: 150px;
+    padding: 10px 5px 10px 5px;
+    font-weight: 600;
+}
+.page-section-intro .btn:hover{
+    background-color: #489e84;
+}
+
+.page-section-contact {
+    padding: 6rem 0;
+    background-color: #ffffff;
+}
+
+.homeShortcutBtn{
+    background-color: #0d333f;
+    color: whitesmoke;
+    width: 200px;
+}
+
+.homeShortcutBtn:hover{
+    background-color: #082630;
+    color: rgb(255, 255, 255);
+    width: 200px;
+    box-shadow: #082630 3px 3px 20px;
+}
+
+#get-started{
+    background: #86dac0;
+    border-radius: 0 !important;
+    cursor:default;
+}

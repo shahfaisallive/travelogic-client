@@ -1,0 +1,9 @@
+.all-questions-link-btn {
+    background-color: #114B5F;
+    color: white;
+}
+
+.all-questions-link-btn:hover {
+    background-color: #093341;
+    color: white;
+}

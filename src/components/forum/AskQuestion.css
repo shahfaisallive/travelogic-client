@@ -1,0 +1,11 @@
+#sub-btn{
+  background-color:#114B5F;
+  color:white;
+  margin-top: 0.5rem;
+}
+hr{
+  border-width: 2px;
+}
+.form-control:focus {
+  outline: auto;
+}

@@ -1,0 +1,35 @@
+.footer-wrap{
+    background-color: #114B5F;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#footer-intro{
+    padding: 40px 50px 40px 50px;
+    font-size: 12px;
+}
+#footer-shortcuts-links{
+margin-top: 20px;
+margin-bottom: 20px;
+
+}
+.Nav-link{
+    color: white;
+    font-size: 12px;
+}
+.Nav-link:hover{
+    text-decoration: none;
+    color: #1A936F;
+}
+.social-icon-footer{
+    font-size: 50px;
+    margin: 30px 10px 40px 10px;
+}
+#footer-social-div{
+    margin-top: 20px;
+}
+.social-icons{
+    color: white;
+}
+.social-icons:hover{
+    color: #1A936F;
+}
